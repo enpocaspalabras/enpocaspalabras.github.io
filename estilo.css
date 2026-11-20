@@ -1,0 +1,8 @@
+:root{--fondo:#fdf8ef;--texto:#1e1e24;--acento:#e85d5d;--suave:#5b5b66}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fondo);color:var(--texto);font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:720px;margin:0 auto;padding:40px 16px 64px}
+h1{font-size:2rem;margin:.2em 0}
+h2{font-size:1.2rem;margin-top:1.8em}
+a{color:var(--acento)}
+.eslogan,.fecha{color:var(--suave)}
